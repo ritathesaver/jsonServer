@@ -1,0 +1,132 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Peter McKinnon",
+      "email": "pmckinnon@gmail.com",
+      "about": "Photographer & Filmmaker. Lover of coffee and good stories. Currently residing in Toronto, Canada running self-titled channel on YouTube. ",
+      "address": "Toronto, Canada",
+      "phone": "+14378861456",
+      "avatarUri": "https://images.pexels.com/photos/2887774/pexels-photo-2887774.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "specialization": ["Photographer","Filmmaker"], 
+    },
+    {
+      "id": 2,
+      "name": "Liv Sanero",
+      "email": "livsanero@gmail.com",
+      "about": "Digital artist and sculptor, whose work addresses technology’s failure to capture the unstable human body.",
+      "address": "Minsk, Belarus",
+      "phone": "+375295645683",
+      "avatarUri": "https://images.pexels.com/photos/3778360/pexels-photo-3778360.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+      "specialization": ["Artist","Sculptor"], 
+    },
+  ],
+  "categories": [
+    {
+    "id": 1,
+    title: "Graphic design",
+    coverUri: "https://images.pexels.com/photos/4046710/pexels-photo-4046710.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    overlayColor: '#ffffff',
+    },
+   {
+    "id": 2,
+    title: "Architecture",
+    coverUri: "https://images.pexels.com/photos/3569263/pexels-photo-3569263.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    overlayColor: '#282b35',
+  },
+  {
+    "id": 3,
+    title: 'Travel',
+    coverUri: "https://images.pexels.com/photos/3214692/pexels-photo-3214692.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    overlayColor: '#282b35',
+  },
+  {
+    "id": 4,
+    title: "Painting",
+    coverUri: "https://images.pexels.com/photos/139764/pexels-photo-139764.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    overlayColor: '#ffffff',
+  },
+  {
+    "id": 5,
+    title: "Illustration",
+    coverUri: "https://images.pexels.com/photos/4906326/pexels-photo-4906326.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    overlayColor: '#ffffff',
+  },
+  {
+    "id": 6,
+    title: "Typography",
+    coverUri: "https://images.pexels.com/photos/616849/pexels-photo-616849.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+    overlayColor: '#282b35',
+  },
+  {
+    "id": 7,
+    title: "Portrait photography",
+    coverUri: "https://images.pexels.com/photos/1250426/pexels-photo-1250426.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    overlayColor: '#282b35',
+  },
+  {
+    "id": 8,
+    title: "Street photography",
+    coverUri: "https://images.pexels.com/photos/1655304/pexels-photo-1655304.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+    overlayColor: '#ffffff',
+  }
+  ],
+  "pictures": [
+    {
+      "userId": 1,
+      "categoryId": 1,
+      "id": 1,
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Maecenas orci nisl, facilisis vel dictum in, accumsan at odio. Proin pretium elementum."
+      "uri": "https://images.pexels.com/photos/5014213/pexels-photo-5014213.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260"
+      "price": 20,
+      "likes": 12,
+      "location": "Toronto, Canada",
+    },
+    {
+      "userId": 1,
+      "categoryId": 1,
+      "id": 2,
+      "title": "Phasellus tristique sem",
+      "description": "Maecenas orci nisl, facilisis vel dictum in, accumsan at odio. Proin pretium elementum."
+      "uri": "https://images.pexels.com/photos/4954715/pexels-photo-4954715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+      "price": 10,
+      "likes": 6,
+      "location": "Montreal, Canada",
+     },
+     {
+      "userId": 2,
+      "categoryId": 2,
+      "id": 3,
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Etiam nec lectus est. Mauris feugiat vel libero ac venenatis. Ut faucibus et ex."
+      "uri": "https://images.pexels.com/photos/5056754/pexels-photo-5056754.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+      "price": 20,
+      "likes": 21,
+      "location": "Minsk, Belarus",
+    },
+      {
+      "userId": 2,
+      "categoryId": 2,
+      "id": 4,
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Etiam nec lectus est. Mauris feugiat vel libero ac venenatis. Ut faucibus et ex."
+      "uri": "https://images.pexels.com/photos/5821470/pexels-photo-5821470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+      "price": 20,
+      "likes": 21,
+      "location": "Minsk, Belarus",
+    },
+      {
+      "userId": 2,
+      "categoryId": 3,
+      "id": 5,
+      "title": "Lorem ipsum dolor sit amet",
+      "description": "Etiam nec lectus est. Mauris feugiat vel libero ac venenatis. Ut faucibus et ex."
+      "uri": "https://images.pexels.com/photos/4558702/pexels-photo-4558702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260"
+      "price": 20,
+      "likes": 21,
+      "location": "Minsk, Belarus",
+    } 
+    ]
+  }
+    
