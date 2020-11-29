@@ -77,7 +77,7 @@
       "categoryId": 1,
       "id": 1,
       "title": "Lorem ipsum dolor sit amet",
-      "description": "Maecenas orci nisl, facilisis vel dictum in, accumsan at odio. Proin pretium elementum."
+      "description": "Maecenas orci nisl, facilisis vel dictum in, accumsan at odio. Proin pretium elementum.",
       "uri": "https://images.pexels.com/photos/5014213/pexels-photo-5014213.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
       "price": 20,
       "likes": 12,
@@ -88,7 +88,7 @@
       "categoryId": 1,
       "id": 2,
       "title": "Phasellus tristique sem",
-      "description": "Maecenas orci nisl, facilisis vel dictum in, accumsan at odio. Proin pretium elementum."
+      "description": "Maecenas orci nisl, facilisis vel dictum in, accumsan at odio. Proin pretium elementum.",
       "uri": "https://images.pexels.com/photos/4954715/pexels-photo-4954715.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
       "price": 10,
       "likes": 6,
@@ -99,7 +99,7 @@
       "categoryId": 2,
       "id": 3,
       "title": "Lorem ipsum dolor sit amet",
-      "description": "Etiam nec lectus est. Mauris feugiat vel libero ac venenatis. Ut faucibus et ex."
+      "description": "Etiam nec lectus est. Mauris feugiat vel libero ac venenatis. Ut faucibus et ex.",
       "uri": "https://images.pexels.com/photos/5056754/pexels-photo-5056754.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
       "price": 20,
       "likes": 21,
@@ -110,7 +110,7 @@
       "categoryId": 2,
       "id": 4,
       "title": "Lorem ipsum dolor sit amet",
-      "description": "Etiam nec lectus est. Mauris feugiat vel libero ac venenatis. Ut faucibus et ex."
+      "description": "Etiam nec lectus est. Mauris feugiat vel libero ac venenatis. Ut faucibus et ex.",
       "uri": "https://images.pexels.com/photos/5821470/pexels-photo-5821470.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
       "price": 20,
       "likes": 21,
@@ -121,7 +121,7 @@
       "categoryId": 3,
       "id": 5,
       "title": "Lorem ipsum dolor sit amet",
-      "description": "Etiam nec lectus est. Mauris feugiat vel libero ac venenatis. Ut faucibus et ex."
+      "description": "Etiam nec lectus est. Mauris feugiat vel libero ac venenatis. Ut faucibus et ex.",
       "uri": "https://images.pexels.com/photos/4558702/pexels-photo-4558702.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
       "price": 20,
       "likes": 21,
