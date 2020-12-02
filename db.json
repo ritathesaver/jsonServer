@@ -2,6 +2,22 @@
   "users": [
     {
       "id": 1,
+      "email": "pmckinnon@gmail.com",
+      "password": "Qwe12345",
+      "creatorId": 1 
+    },
+    
+    {
+      "id": 2,
+      "email": "livsanero@gmail.com",
+      "password": "Qwe12345",
+      "creatorId": 2 
+    },
+  ],
+  
+  "creators": [
+    {
+      "id": 1,
       "name": "Peter McKinnon",
       "email": "pmckinnon@gmail.com",
       "about": "Photographer & Filmmaker. Lover of coffee and good stories. Currently residing in Toronto, Canada running self-titled channel on YouTube. ",
