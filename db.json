@@ -5,16 +5,14 @@
       "email": "pmckinnon@gmail.com",
       "password": "Qwe12345",
       "creatorId": 1 
-    },
-    
+    },    
     {
       "id": 2,
       "email": "livsanero@gmail.com",
       "password": "Qwe12345",
       "creatorId": 2 
-    },
+    }
   ],
-  
   "creators": [
     {
       "id": 1,
@@ -89,7 +87,7 @@
   ],
   "pictures": [
     {
-      "userId": 1,
+      "creatorId": 1,
       "categoryId": 1,
       "id": 1,
       "title": "Lorem ipsum dolor sit amet",
@@ -100,7 +98,7 @@
       "location": "Toronto, Canada"
     },
     {
-      "userId": 1,
+      "creatorId": 1,
       "categoryId": 1,
       "id": 2,
       "title": "Phasellus tristique sem",
@@ -111,7 +109,7 @@
       "location": "Montreal, Canada"
      },
      {
-      "userId": 2,
+      "creatorId": 2,
       "categoryId": 2,
       "id": 3,
       "title": "Lorem ipsum dolor sit amet",
@@ -122,7 +120,7 @@
       "location": "Minsk, Belarus"
     },
       {
-      "userId": 2,
+      "creatorId": 2,
       "categoryId": 2,
       "id": 4,
       "title": "Lorem ipsum dolor sit amet",
@@ -133,7 +131,7 @@
       "location": "Minsk, Belarus"
     },
       {
-      "userId": 2,
+      "creatorId": 2,
       "categoryId": 3,
       "id": 5,
       "title": "Lorem ipsum dolor sit amet",
